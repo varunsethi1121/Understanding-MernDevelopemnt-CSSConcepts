@@ -7,3 +7,8 @@
 ~for complete solution you may refer practiceQuestion.html and practiceQuestionStyle.css
 
 ![Screenshot 2025-03-25 144143](https://github.com/user-attachments/assets/10cf4e47-f428-4cde-a450-8915b3b12b3d)
+
+👉 Solution for Practice Question 3 <br>
+~for complete solution you may refer practiceQuestion.html and practiceQuestionStyle.css
+
+![Screenshot 2025-03-25 152445](https://github.com/user-attachments/assets/8440103a-7301-4d9e-adf3-c39e725580ee)
