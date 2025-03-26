@@ -1,0 +1,69 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    margin: 5pxpx;
+    padding: 0px;
+}
+
+h1 {
+    color: red;
+}
+
+h3 {
+    color: brown;
+}
+
+#login {
+    background-color: blue;
+    color: white;
+}
+
+#signup {
+    background-color: red;
+    color: white;
+}
+/* DESCENDANT SELECTOR */
+p a {
+    background-color: yellow;
+    color: green;
+}
+
+/* .upvote{
+    background-color: green;
+    color: white;
+} */
+
+/* CHILD COMBINATOR */
+span>button {
+    background-color: green;
+    color: white;
+}
+/* SIBLING COMBINATOR */
+.upvote+button {
+    background-color: rgb(253, 68, 68);
+    color: white;
+}
+/* ATTRIBUTE SELECTOR */
+input[type="text"]{
+    color: yellow;
+}
+input[type="password"]{
+    color: green;
+}
+/* PSEUDO CLASSES */
+/* EVEN CONTAINERS */
+.testimonialContainer:nth-of-type(2n){
+    background: rgb(163, 248, 163);
+}
+/* ODD CONTAINERS */
+.testimonialContainer:nth-of-type(2n-1){
+    background-color: rgb(96, 252, 96);
+}
+/* PSEUDO ELEMENTS */
+h1::first-letter{
+    font-size: 50px;
+    color: black;
+}
+p::selection{
+    background-color: pink;
+}

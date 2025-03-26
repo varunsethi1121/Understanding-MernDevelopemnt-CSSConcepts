@@ -1,4 +1,4 @@
-h2{
+/* h2{
     color: orange;
 }
 p{
@@ -8,8 +8,8 @@ p{
 button{
     background-color: blue;
     color: white;
-}
-.innerContainerLogo{
+} */
+/* .innerContainerLogo{
     font-family: league-spartan;
     color: #ffa511;
     text-align: center;
@@ -21,4 +21,48 @@ button{
     text-decoration-style: double;
     text-decoration-color: teal;
     text-transform: uppercase;
+} */
+/* .mainHeading{
+    color: blue;
+}
+.upperButton{
+    background-color: aqua;
+    color: black;
+}
+#searchButton{
+    background-color: black;
+    color: white;
+} */
+
+#mainTopic{
+    color: blue;
+}
+*{
+    text-align: center;
+}
+h1, h3, h5{
+    font-family: 'georgia';
+}
+h3 + p, p + p{
+    background-color: cornflowerblue;
+    color: white;
+}
+div > button{
+    background-color: purple;
+    color: azure;
+}
+div > button:hover{
+    background-color: yellow;
+    color: blue;
+}
+p:nth-of-type(2n-1){
+    background-color: yellow;
+}
+h1::first-letter{
+    color: red;
+    font-size: 50px;
+}
+#yes:checked+label{
+    color: darkgreen;
+    font-size: 20px;
 }
