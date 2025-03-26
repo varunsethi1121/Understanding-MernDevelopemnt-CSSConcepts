@@ -18,3 +18,8 @@
 
 ![Screenshot 2025-03-26 131038](https://github.com/user-attachments/assets/4b75f69a-59da-417f-af5c-31f09c049da6)
 
+👉 Solution for Practice Question 5 <br>
+~for complete solution you may refer practiceQuestion.html and practiceQuestionStyle.css
+
+![Screenshot 2025-03-26 170549](https://github.com/user-attachments/assets/de6c9e0a-ffea-4e2e-9a29-ab2464ccf2e3)
+
