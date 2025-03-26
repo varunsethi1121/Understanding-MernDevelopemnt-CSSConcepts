@@ -34,7 +34,7 @@ button{
     color: white;
 } */
 
-#mainTopic{
+/* #mainTopic{
     color: blue;
 }
 *{
@@ -65,4 +65,47 @@ h1::first-letter{
 #yes:checked+label{
     color: darkgreen;
     font-size: 20px;
-}
+} */
+ .mainContainer5{
+    border: 2px solid black;
+    margin-left: 550px;
+    height: 400px;
+    width: 200px;
+ }
+ .innerContainer{
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-left: 17.5px;
+    height: 360px;
+    width: 160px;
+ }
+ .innerLight{
+    border: 1px solid pink;
+    margin: 2px;
+    height: 100px;
+    margin-top: 14px;
+ }
+ .redContainer{
+    background-color: red;
+    border:2px solid red;
+    border-radius: 50%;
+    margin-left: 28px;
+    height: 100px;
+    width: 100px;
+ }
+ .yellowContainer{
+    background-color: yellow;
+    border: 2px solid yellow;
+    border-radius: 50%;
+    margin-left: 28px;
+    height: 100px;
+    width: 100px;
+ }
+ .greenContainer{
+    background-color: green;
+    border: 2px solid green;
+    border-radius: 50%;
+    margin-left: 28px;
+    height: 100px;
+    width: 100px;
+ }
