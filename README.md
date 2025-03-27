@@ -26,7 +26,7 @@
 👉 Solution for Practice Question 6 <br>
 ~for complete solution you may refer practiceQuestion.html and practiceQuestionStyle.css
 
-![Screenshot 2025-03-27 121420](https://github.com/user-attachments/assets/dc901156-734e-4e53-b576-c1d87944f1ed)
+![Screenshot 2025-03-27 121420](https://github.com/user-attachments/assets/6abf3ff6-6000-4ea9-83aa-1d40211f9a4f)
 ![Screenshot 2025-03-27 121432](https://github.com/user-attachments/assets/41b78479-5658-47a5-b931-cba4b397e92f) <br>
 ![Screenshot 2025-03-27 122552](https://github.com/user-attachments/assets/ea1b8db3-d643-46f8-8d65-807d9add5025)
 
