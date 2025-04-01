@@ -30,3 +30,9 @@
 ![Screenshot 2025-03-27 121432](https://github.com/user-attachments/assets/84e6bd80-1887-46da-bf72-0e66010735e0) <br>
 ![Screenshot 2025-03-27 122552](https://github.com/user-attachments/assets/ea1b8db3-d643-46f8-8d65-807d9add5025)
 
+👉 Solution for Practice Question 7 <br>
+~for complete solution you may refer practiceQuestion.html and practiceQuestionStyle.css
+
+![Screenshot 2025-04-01 143853](https://github.com/user-attachments/assets/1fb0c2a6-4517-47b8-9d1e-fd4e6affd154) <br>
+![Screenshot 2025-04-01 143842](https://github.com/user-attachments/assets/f98f67a0-989f-4cae-8eb9-c2503928e9bc)
+
