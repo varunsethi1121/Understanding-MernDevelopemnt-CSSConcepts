@@ -153,7 +153,7 @@ h1::first-letter{
     padding: 1em;
 } */
 
-.hoverEffectCard{
+/* .hoverEffectCard{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -187,9 +187,48 @@ h1::first-letter{
     width: 195px;
     border: 2px solid green;
     border-radius: 50%;
-}
+} */
 /* IT MEANS THAT IMAGE TAGE WILL TAKE 100% WIDTH AND HEIGHT OF ITS PARENT */
-img{
+/* img{
     height: 100%;
     width: 100%;
-} 
+}  */
+  .faceContainer{
+    height: 400px;
+    width: 400px;
+    background-color: yellow;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 450px;
+}
+.mouthContainer{
+    height: 75px;
+    width: 200px;
+    position: relative;
+    top: 250px;
+    left: 100px;
+    border-radius: 0 0 100px 100px;
+    background-color: red;
+}
+.eyeContainer{
+    height: 60px;
+    width: 200px;
+}
+.leftEye{
+    height: 100%;
+    width: 25%;
+    top: 20px;
+    left: 100px;
+    position: relative;
+    border-radius: 50px;
+    background-color: black;
+}
+.rightEye{
+    height: 100%;
+    width: 25%;
+    top: -35px;
+    left: 250px;
+    position: relative;
+    border-radius: 50px;
+    background-color: black;
+}
