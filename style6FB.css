@@ -1,0 +1,10 @@
+/* USAGE OF CHILD COMBINATOR DIV > H3 (PARENT > CHILD) */
+div > h3{
+    text-align: center;
+}
+.outerContainer{
+    width: 80%;
+    height: 350px;
+    margin: 10px auto;
+    border: 2px solid black;
+}
