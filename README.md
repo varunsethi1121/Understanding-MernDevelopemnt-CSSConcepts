@@ -33,6 +33,6 @@
 👉 Solution for Practice Question 7 <br>
 ~for complete solution you may refer practiceQuestion.html and practiceQuestionStyle.css
 
-![Screenshot 2025-04-01 143853](https://github.com/user-attachments/assets/1fb0c2a6-4517-47b8-9d1e-fd4e6affd154) <br>
-![Screenshot 2025-04-01 143842](https://github.com/user-attachments/assets/f98f67a0-989f-4cae-8eb9-c2503928e9bc)
+![Screenshot 2025-04-01 143842](https://github.com/user-attachments/assets/f98f67a0-989f-4cae-8eb9-c2503928e9bc) <br>
+![Screenshot 2025-04-01 143853](https://github.com/user-attachments/assets/1fb0c2a6-4517-47b8-9d1e-fd4e6affd154) 
 
