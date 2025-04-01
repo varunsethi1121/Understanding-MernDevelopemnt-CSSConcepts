@@ -1,0 +1,17 @@
+.smapleTransitionContainer{
+    height: 500px;
+    width: 1300px;
+    margin: 10px 10px;
+    transition-duration: 1s;
+    transition-delay: 0.3s;
+    transition-timing-function: ease;
+    /* transition-timing-function: ease-in; */
+    transition-timing-function: ease-out;
+    transition-timing-function:ease-in-out;
+    border: 2px solid yellow;
+    background-color: yellow;
+}
+.smapleTransitionContainer:hover{
+    height: 500px;
+    width: 750px;
+}
