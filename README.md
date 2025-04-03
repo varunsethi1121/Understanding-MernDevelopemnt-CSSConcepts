@@ -41,3 +41,8 @@
 
 ![Screenshot 2025-04-01 154019](https://github.com/user-attachments/assets/38aa4f79-678b-4168-a9b5-956aa851cc91)
 
+👉 Solution for Practice Question 9 <br>
+~for complete solution you may refer practiceQuestion.html and practiceQuestionStyle.css
+
+![Screenshot 2025-04-03 223838](https://github.com/user-attachments/assets/d2149067-c86a-4d40-8863-ea1e515a9210)
+
