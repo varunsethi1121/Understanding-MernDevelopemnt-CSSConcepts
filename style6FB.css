@@ -1,10 +1,24 @@
 /* USAGE OF CHILD COMBINATOR DIV > H3 (PARENT > CHILD) */
-div > h3{
+div >h3{
     text-align: center;
 }
 .outerContainer{
     width: 80%;
-    height: 350px;
+    height: 360px;
     margin: 10px auto;
     border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; /*WILL WRAP EXTRA PORTION OF THE DIV TO THE NEW LINE RATHER THAN DECREASING THE WIDTH OF THE DIV */
+}
+.innerContainer{
+    width: 300px;
+    height: 120px;
+    text-align: center;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
