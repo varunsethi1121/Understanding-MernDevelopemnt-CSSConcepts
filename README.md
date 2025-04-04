@@ -51,5 +51,9 @@
 
 ![Screenshot 2025-04-03 232856](https://github.com/user-attachments/assets/91cefc42-8338-45b2-a304-32827dd29808)
 
+👉 Solution for Practice Question 11 <br>
+~for complete solution you may refer practiceQuestion.html and practiceQuestionStyle.css
+
+![Screenshot 2025-04-04 185422](https://github.com/user-attachments/assets/b902281a-8b69-47c8-ae1c-24914d62b324)
 
 
