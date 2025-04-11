@@ -1,0 +1,92 @@
+.mainContainer1 {
+    height: 100px;
+    margin: auto;
+    margin-top: 120px;
+    text-align: center;
+    border: 2px solid red;
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    animation-name: bannerAnimation1;
+    animation-delay: 0s;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes bannerAnimation1 {
+    from {
+        font-size: 20px;
+    }
+
+    to {
+        font-size: 30px;
+        color: balck;
+    }
+}
+
+.mainContainer2 {
+    height: 100px;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid green;
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainContainer2 > .mainBanner{
+    animation-name: bannerAnimation2;
+    animation-delay: 0s;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes bannerAnimation2 {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(5deg);
+    }
+}
+.mainContainer3 {
+    height: 100px;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid yellow;
+    background-color: yellow;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainContainer3 > .mainBanner{
+    animation-name: bannerAnimation3;
+    animation-delay: 0s;
+    animation-duration: 5s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes bannerAnimation3 {
+    from{
+        transform: translateX(100px);
+    }
+    to{
+        transform: translateX(-100px);
+    }
+}
