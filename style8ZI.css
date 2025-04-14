@@ -9,7 +9,7 @@
     background-color: red;
 }
 #innerContainer2{position: relative;
-    z-index: -1; /* BY DOUIND THIS WE CAN GET OUR DESIRED OUTPUT THAT FIRST BLOCK WILL APPEAR OVER SECOND*/
+    z-index: -1; /* BY DOING THIS WE CAN GET OUR DESIRED OUTPUT THAT FIRST BLOCK WILL APPEAR OVER SECOND*/
     bottom: 50px;
     background-color: green;
 }
