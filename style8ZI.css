@@ -1,0 +1,15 @@
+.box{
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    background-color: pink;
+}
+#innerContainer1{
+    z-index: 1;  /*ZINDEX WILL GIVE NO CHANGE BECAUSE IT WILL BE SET FOR ONLY THOSE ELEMENETS WHICH HAS POSITION PROPERTY DEFINED FOR THEM EXCEPT FOR STATIC/DEFAULT*/
+    background-color: red;
+}
+#innerContainer2{position: relative;
+    z-index: -1; /* BY DOUIND THIS WE CAN GET OUR DESIRED OUTPUT THAT FIRST BLOCK WILL APPEAR OVER SECOND*/
+    bottom: 50px;
+    background-color: green;
+}
